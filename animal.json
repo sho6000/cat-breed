@@ -1,0 +1,45 @@
+[
+    {
+        "id":"001",
+        "name":"Aegean",
+        "origin": "Greece",
+        "temperament": "Active, Social, Intelligent, Playful",
+        "description": "The Aegean cat is a natural breed that originated in Greece. They are known for their active and playful nature, as well as their intelligence. Aegean cats are social and enjoy interacting with their human companions."
+
+    },
+    {
+        "id": "002",
+        "name": "Bengal",
+        "origin": "United States",
+        "temperament": "Active, Alert, Agile, Independent",
+        "description": "The Bengal cat is a domestic breed that was developed in the United States. They are known for their active and agile nature, as well as their independent personality. Bengal cats are alert and make great companions for those who appreciate their energetic nature."
+    },
+    {
+        "id": "003",
+        "name": "Maine Coon",
+        "origin": "United States",
+        "temperament": "Gentle, Intelligent, Adaptable, Friendly",
+        "description": "The Maine Coon cat is a domestic breed that originated in the United States. They are known for their gentle and friendly nature, as well as their high level of intelligence. Maine Coon cats are adaptable and make great family pets due to their sociable personality."
+    },
+    {
+        "id": "004",
+        "name": "Siamese",
+        "origin": "Thailand",
+        "temperament": "Affectionate, Social, Vocal, Active",
+        "description": "The Siamese cat is a domestic breed that originated in Thailand. They are known for their affectionate and social nature, as well as their vocal behavior. Siamese cats are active and enjoy interacting with their human companions."
+    },
+    {
+        "id": "005",
+        "name": "Persian",
+        "origin": "Iran",
+        "temperament": "Calm, Gentle, Quiet, Independent",
+        "description": "The Persian cat is a domestic breed that originated in Iran. They are known for their calm and gentle nature, as well as their independent personality. Persian cats are quiet and make great companions for those who appreciate their serene demeanor."
+    },
+    {
+        "id": "006",
+        "name": "Sphynx",
+        "origin": "Canada",
+        "temperament": "Curious, Friendly, Energetic, Playful",
+        "description": "The Sphynx cat is a domestic breed that originated in Canada. They are known for their curious and friendly nature, as well as their energetic personality. Sphynx cats are playful and make great companions for those who enjoy their active and affectionate behavior."
+    }
+]
